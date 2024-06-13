@@ -17,12 +17,12 @@ const FooterEnd = () => {
                 </div>
                 <div className='flex flex-col items-center justify-center mt-6'>
                     <div className='flex flex-wrap gap-4 justify-center md:justify-start'>
-                        <h3 className='font-semibold text-xs md:text-sm text-[#DDD]'>Condition of Use & Sale</h3>
+                        <h3 className='font-semibold text-xs md:text-sm text-[#DDD]'>All Right Reserved Under Abhishek Pal</h3>
                         <h3 className='font-semibold text-xs md:text-sm text-[#DDD]'>Privacy Notice</h3>
                         <h3 className='font-semibold text-xs md:text-sm text-[#DDD]'>Interest-Based Ads</h3>
                     </div>
                     <div className='mt-2 text-center md:text-left'>
-                        <h3 className="font-semibold p-2 text-xs md:text-sm text-[#DDD]">© 1996-2023, Amazon.com, Inc. or its affiliates</h3>
+                        <h3 className="font-semibold p-2 text-xs md:text-sm text-[#DDD]">© 1996-2024, Amazon.com, Inc. or its affiliates</h3>
                     </div>
                 </div>
             </div>

@@ -50,7 +50,7 @@ const Header = () => {
                         <span className="text-white text-center hidden md:inline">.in</span>
                     </Link>
                     <div className="hidden md:flex flex-col justify-center items-center px-2 cursor-pointer">
-                        <span className="text-gray-300 font-bold text-[10px] sm:text-[12px] md:text-[14px] ml-3">Delivery To Nashik</span>
+                        <span className="text-gray-300 font-bold text-[10px] sm:text-[12px] md:text-[14px] ml-3">Delivery To Bareilly</span>
                         <div className="flex items-center">
                             <LocationOnOutlinedIcon style={{ fill: 'white' }} />
                             <span className="text-gray-300 font-semibold text-[13px] sm:text-[15px] md:text-[17px]">Update Location</span>
